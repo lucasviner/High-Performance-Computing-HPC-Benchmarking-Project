@@ -112,8 +112,7 @@ This repository provides:
 ## 📂 Repository Structure
 
 ```
-/scripts             → SLURM scripts to launch and manage jobs
-/Proyecto HPC        → Project report, plots, and summary tables
+/ProyectoHPC.zip     → Compressed archive containing SLURM scripts, project report, plots, and summary tables
 ```
 
 ---
